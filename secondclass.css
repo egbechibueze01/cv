@@ -1,0 +1,19 @@
+.firstimage{
+    height: 175px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+.tableheader{
+    background-color: rgb(19, 17, 17);
+    color: white;
+}
+
+.firstrow{
+    background-color: white
+}
+
+.exp{
+    background-color: rgb(88, 82, 82);
+    color: white;
+}
